@@ -1,0 +1,10 @@
+
+instances:
+  - host: 192.168.10.40
+    port: 12865
+    tcp_request_size_bytes: 512
+    tcp_response_size_bytes: 256
+    timeout: 1
+
+# Nothing to configure here
+init_config:
