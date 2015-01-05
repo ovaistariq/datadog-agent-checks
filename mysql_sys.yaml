@@ -1,0 +1,9 @@
+instances:
+  - server: 127.0.0.1
+    user: someuser
+    pass: changeme
+    tags:
+    options:
+
+# Nothing to configure here
+init_config:
